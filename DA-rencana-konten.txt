@@ -1,0 +1,11 @@
+RENCANA KONTEN DA
+
+-PLC
+  *Dasar Teori
+  *EKTS
+  *Fluidsim
+  *CX-Programmer
+  CX*Designer
+-Arduino
+-Basic Elektronika
+-SCADA
