@@ -2,12 +2,8 @@ Rencana BElajar kedepan :
 
 -Belajar JS
  *Framework JS
-
   ^Angular
   ^React
-
-
-
 -Belajar Golang
 -Belajar Arduino
  *Belajar codingnya
