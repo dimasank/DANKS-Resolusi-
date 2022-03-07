@@ -5,3 +5,4 @@ Rencana BElajar kedepan :
 -Belajar Arduino
  *Belajar codingnya
  *Belajar macam-macam alatnya
+-Belajar menjadi Stramer
