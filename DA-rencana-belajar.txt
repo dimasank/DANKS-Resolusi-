@@ -1,8 +1,12 @@
 Rencana BElajar kedepan :
 
 -Belajar JS
+ *Framework JS
+  ^Vue
 -Belajar Golang
 -Belajar Arduino
  *Belajar codingnya
  *Belajar macam-macam alatnya
 -Belajar menjadi Stramer
+ *Di Youtube
+-Belajar SCADA
